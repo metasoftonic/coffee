@@ -1,0 +1,26 @@
+.env
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj/
+_test/
+
+# Output files
+*.exe
+*.out
+*.test
+*.prof
+
+# Dependency directories
+vendor/
+
+# End of line
+*.bak
+*.swp
+
+# Go specific
+*.test
+*.prof
